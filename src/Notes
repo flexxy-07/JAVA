@@ -1,0 +1,10 @@
+Types of RelationShips in java:
+1. Association (has association)vcz/
+2. Dependency (uses association) => creating object within the method
+3. Inheritance (is association) =6> Child class inherits the methoda and properties of parent class
+                                => +*96/8520We can't inherit the private method or variable from the parent class
+                                =>
+
+                                => Java support multiple inheritance with respect to interfaces, but not with respect
+                                   to Classes
+                                => Diamond Problem
